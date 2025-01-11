@@ -1,4 +1,4 @@
-name: DDPM_X-Ray
+name: GenAI_Image_Tutorial
 channels:
   - conda-forge
   - anaconda
