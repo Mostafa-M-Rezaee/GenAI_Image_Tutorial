@@ -1,6 +1,8 @@
 ![alt text](Figures/Logo_DDPM_X-Ray.jpg)
 
-# GenAI Potentials to Enhance Medical Image Classification
+Step-by-step tutorial to implement DDPM and PGGANs on Chest X-Ray images, addressing imbalanced datasets in medical imaging.
+
+# GenAI Image Tutorial
 
 **This repository contains the code and results presented in the above paper.**
 
