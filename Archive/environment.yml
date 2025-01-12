@@ -35,7 +35,7 @@ dependencies:
   - ptyprocess=0.7.0=pyhd3eb1b0_2
   - pure_eval=0.2.2=pyhd3eb1b0_0
   - python=3.10.14=h955ad1f_0
-  - pip
+  - pip=24.2
   - python-tzdata=2023.3=pyhd3eb1b0_0
   - pytz=2024.1=py310h06a4308_0
   - pyyaml=6.0.1=py310h5eee18b_0
